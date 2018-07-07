@@ -3,5 +3,43 @@
   "name":"anjali",
   "label":"student",
   "email":"lalithachintha5@gmail.com"
+},
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organisation that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organisation"
+  },
+  "education":[
+    {
+    "degree":"B.Tech(information technology)",
+    "institute":"pvp Siddardha",
+    "data":["2016-20","8.9"]
+  },
+{
+  "degree":"intermediate(M.P.C)",
+  "institute":"sri Gayatri",
+  "data":["2014-16","88.5"]
+},
+{
+"degree":" S.S.C",
+"institute":" sri chaitanya",
+"data":["2014","8.3"]
+}
+],
+"skills":[
+  {
+      "title":"languages",
+      "content":["c","python","java","c#","c++","PHP","R"]
+  },
+  {
+    "title":"database",
+    "content":["SQL","MongoDB","MySql"]
+  },
+  {
+    "title":"web technologies",
+    "content":["HTML","CSS","javascript","PHP"]
+  },
+  {
+    "title":"Frameworks",
+    "content":["Django","CodeIgniter"]
   }
+]
 }

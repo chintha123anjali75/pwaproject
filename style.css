@@ -25,6 +25,9 @@
   background-color: green;
   text-align: center;
 }
+body{
+  background-color:tomato;
+}
 @media only screen and (min-width:1025px) and (max-width:1550px){
   .parent {
     display: flex;
